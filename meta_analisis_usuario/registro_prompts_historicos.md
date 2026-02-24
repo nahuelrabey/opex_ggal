@@ -26,6 +26,8 @@ Este archivo actúa como una bitácora viva o *log* de las instrucciones, correc
 19. **[2026-02-24] Prompt (Guardado de Evaluación y Contexto Gráfico):** *"Deja esto escrito en un texto en @[estrategias_analisis_macro]..."*
 20. **[2026-02-24] Prompt (Enlazado entre Registros):** *"No te olvides de agregar la referencia a @[opex/2026_02_24.md]"*
 21. **[2026-02-24] Prompt (Reestructuración de Conocimiento - Zettelkasten):** *"Notemos que en @[estrategias_analisis_macro]hay dos tipos de archivo: analsisi de mercados, y análisis de estrategias. Me gustaría que se separen en carpetas distintas. No te olvides de corregir retroactivamente las referencias"*
+22. **[2026-02-24] Prompt (Aclaración Teórica - Convexidad y Gamma):** *"¿Convexidad? ¿A qué te referís con esto?"*
+23. **[2026-02-24] Prompt (Documentación Teórica de Griegas):** *"Sí, crea un archivo con esta explicación (y además, agregá cómo se calcula esta Gamma)."*
 
 ---
 *(Este documento se actualizará en cascada con nuevos prompts relevantes en el futuro para enriquecer el Perfil Cognitivo).*
