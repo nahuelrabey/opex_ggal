@@ -5,6 +5,8 @@ fecha_edicion: "2026-02-24"
 
 # Evaluación de Estrategia sin Ventas Libres (Opciones GGAL)
 
+*Contexto y referencia a la entrada de bitácora original: [2026_02_24.md](../opex/2026_02_24.md)*
+
 Ante la limitante operativa de no contar con habilitación para ventas libres (programa "Flat" del broker Veta Capital), la estrategia original se adapta a compras "de frente" apoyándose en la presunción de una lateralización con sesgo bajista y la expectativa de un posible "sacudón fuerte" inminente. Como se observa en el gráfico diario referenciado como `../imagenes/diario_2026.04.24.png`, existe un túnel o canal bajista formalizado en el comportamiento de la acción durante los últimos días.
 
 ## Análisis de la Estrategia Propuesta

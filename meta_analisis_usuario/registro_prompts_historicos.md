@@ -23,7 +23,9 @@ Este archivo actúa como una bitácora viva o *log* de las instrucciones, correc
 17. **[2026-02-23] Prompt (Profundización en Roll Over):** *"Me gustaría desarrollar más este escenario [de rotura anticipada]. Sobre todo, los costos de un 'roll over' de contratos vendidos."*
 18. **[2026-02-23] Prompt (Evaluación de Setup Iron Diagonal Exacto):** *"Evalúa la nueva estrategia: En el techo: Comprar PUT Julio 44 / Vender PUT Abril 40. En el piso: Comprar CALL Julio 55 / Vender CALL Abril 60. Supongo asumiendo pérdidas parciales si rompe en Abril a 62..."*
 
-19. **[2026-02-24] Prompt (Guardado de Evaluación y Contexto Gráfico):** *"Deja esto escrito en un texto en @[estrategias_analisis_macro]. Nota la imagen en @[imagenes/diario_2026.04.24.png]que muestra un tunel bajista en los últimos días. No te olvides de seguir @[.agents/workflows/escritura_archivos.md]y actualizar @[meta_analisis_usuario/registro_prompts_historicos.md]"*
+19. **[2026-02-24] Prompt (Guardado de Evaluación y Contexto Gráfico):** *"Deja esto escrito en un texto en @[estrategias_analisis_macro]..."*
+20. **[2026-02-24] Prompt (Enlazado entre Registros):** *"No te olvides de agregar la referencia a @[opex/2026_02_24.md]"*
+21. **[2026-02-24] Prompt (Reestructuración de Conocimiento - Zettelkasten):** *"Notemos que en @[estrategias_analisis_macro]hay dos tipos de archivo: analsisi de mercados, y análisis de estrategias. Me gustaría que se separen en carpetas distintas. No te olvides de corregir retroactivamente las referencias"*
 
 ---
 *(Este documento se actualizará en cascada con nuevos prompts relevantes en el futuro para enriquecer el Perfil Cognitivo).*
