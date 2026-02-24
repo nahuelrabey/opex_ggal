@@ -28,6 +28,9 @@ Este archivo actúa como una bitácora viva o *log* de las instrucciones, correc
 21. **[2026-02-24] Prompt (Reestructuración de Conocimiento - Zettelkasten):** *"Notemos que en @[estrategias_analisis_macro]hay dos tipos de archivo: analsisi de mercados, y análisis de estrategias. Me gustaría que se separen en carpetas distintas. No te olvides de corregir retroactivamente las referencias"*
 22. **[2026-02-24] Prompt (Aclaración Teórica - Convexidad y Gamma):** *"¿Convexidad? ¿A qué te referís con esto?"*
 23. **[2026-02-24] Prompt (Documentación Teórica de Griegas):** *"Sí, crea un archivo con esta explicación (y además, agregá cómo se calcula esta Gamma)."*
+24. **[2026-02-24] Prompt (Extracción de Suposiciones):** *"Quiero que me crees un documento que liste todas las suposiciones hechas sobre GGAL y sus opciones. Particularmente, todas las suposiciones que puedan ser estudiadas si cuento con los precios históricos... cite del documento de la que sale."*
+25. **[2026-02-24] Prompt (Verificación Empírica de Suposiciones):** *"Por cada suposición, quiero que crees una forma para verificarla. Particularmente, listar los cálculos que deban ser necesarios, y la información con la que deba contarse... Sólo un pantallaso."*
+26. **[2026-02-24] Prompt (Organización y Adhesión a Reglas):** *"Procede, y escribe los documentos solicitados. Si es necesario, crea una carpeta que se llame 'verificacion_hipotesis'. No te olvides de seguir @[.agents/workflows/escritura_archivos.md] y actualizar @[meta_analisis_usuario]"*
 
 ---
 *(Este documento se actualizará en cascada con nuevos prompts relevantes en el futuro para enriquecer el Perfil Cognitivo).*
