@@ -11,16 +11,16 @@ Al evaluar el impacto macroeconómico en las acciones bancarias como las del Gru
 Durante el último ciclo de endurecimiento monetario y la contracción económica local, los reportes financieros trimestrales muestran una presión significativa sobre la capacidad de pago de individuos y empresas pequeñas/medianas. 
 
 **Datos Oficiales Reportados:**
-- **Incremento de Previsiones (Q2 & Q3 2025):** Para amortiguar el golpe de la incobrabilidad masiva, el banco se vio obligado a destinar montos récord en sus reservas obligatorias ("Loan loss provisions"). En el 3er Trimestre de 2025 (*Q3 2025*), las previsiones para cubrir incobrables saltaron un **26%** respecto al trimestre anterior y aumentaron un abismal **208% año-contra-año**. En el trimestre anterior (*Q2 2025*), ya habían subido un 192% frente a 2024.
-- **Sectores más Castigados:** Según las presentaciones corporativas, el mayor deterioro en la calidad de los préstamos (NPLs) no provino inicialmente del sector corporativo mayorista, sino del segmento minorista; traccionado por **préstamos personales y financiamiento con tarjetas de crédito**. La licuación inflacionaria salarial hizo que el consumidor final cayera en insolvencia primero. 
-- **Resiliencia Comparativa:** Pese al shock, hacia Junio 2025 la cobertura real del Galicia con fondos provisionados era del **117.9%**. Esto significa que el capital apartado en sus reservas era más que suficiente para cubrir la totalidad contable de los préstamos en actual estado de morosidad institucional; mitigando el riesgo de falta de liquidez contable inmediata.
+- **Incremento de Previsiones (Q2 & Q3 2025):** Para amortiguar el golpe de la incobrabilidad, el banco destinó montos crecientes a reservas. En el Q3 2025, las previsiones para cubrir incobrables subieron un 26% trimestral y un 208% interanual (Grupo Financiero Galicia 2025, ["GFG's Third Quarter Ended September 30, 2025"](https://www.gfgsa.com/English/Financial-Information/Financial-Statements/default.aspx)).
+- **Sectores más Castigados:** El mayor deterioro se concentró en el segmento minorista, especialmente en préstamos personales y tarjetas de crédito, debido a la caída de ingresos reales (Infobae 2026, ["La mora en los hogares escaló al 9,3%"](https://www.infobae.com/economia/2026/02/15/la-mora-en-los-hogares-escalo-al-93-segun-el-bcra/)).
+- **Resiliencia Comparativa:** A junio de 2025, la cobertura de NPL con previsiones era del 117.9%, mitigando riesgos de liquidez inmediata (Grupo Financiero Galicia 2025).
 
 ## 2. Proyecciones y Pico de Morosidad (NPL)
 
 El acrónimo **NPL** (*Non-Performing Loans*) se refiere a los préstamos que tienen 90 días o más de demora en el pago. Es la principal métrica de Wall Street para saber si el banco se está llenando de "activos tóxicos".
 
-- **El Pico Esperado en 2026:** Según las estimaciones provistas a los analistas, se espera que los NPLs alcancen su máximo (rango **6% - 7%**) en **Marzo de 2026**. 
-- **Perspectiva Futura:** Las proyecciones de balance indican que, habiendo depurado la cartera más riesgosa y digerido el shock macroeconómico principal (sumado al volumen incrementado tras absorber definitivamente a **HSBC Argentina**), el banco pronostica que los indicadores de NPLs cederán posteriormente para estabilizarse en torno al **4% - 4.5%** hacia finales de 2026.
+- **El Pico Esperado en 2026:** La gerencia del banco proyecta que el ratio de NPL alcance su máximo de entre 6% y 7% en marzo de 2026 (Bloomberg Línea 2025, ["Galicia prevé pico de morosidad..."](https://www.bloomberglinea.com/latinoamerica/argentina/galicia-preve-pico-de-morosidad-en-marzo-de-2026/)). 
+- **Perspectiva Futura:** Se estima que, tras digerir el shock y absorber HSBC Argentina, los indicadores de NPL bajen al rango del 4% - 4.5% hacia fines de 2026 (Quartr 2025, ["GFG Earnings Guidance 2026"](https://quartr.com/companies/grupo-financiero-galicia)).
 
 ### Conclusión Estratégica
 Los datos oficiales corroboran empíricamente el escenario bajista fundamental por la calidad de la cartera deudor. La explosión de casi un 200% interanual en las previsiones impacta negativamente y recorta directamente las utilidades netas (*EPS - Earnings Per Share*) a reportar. El mercado operará condicionado esperando que en **Marzo 2026** no se superen esas predicciones del 7% y buscará ver si el trimestre siguiente confirma finalmente el cambio de tendencia bajista en la mora pre-proyectado por la directiva. 
@@ -28,7 +28,8 @@ Los datos oficiales corroboran empíricamente el escenario bajista fundamental p
 ---
 
 ### Fuentes recomendadas
-- **Grupo Financiero Galicia - Investor Relations:** Reportes corporativos de rentabilidad integrados a CNV/SEC (Ej. *Earnings Calls* integrados para los trimestres Q2 2025 y Q3 2025, donde desglosan la composición del NPL por el mix de consumo vs corporativo, y definen las reservas de Loan Loss Provisions).
-- **Quartr / Investing.com (Transcripciones):** Artículos analíticos de seguimiento de balances bancarios emergentes (*Galicia earnings transcripts Q3 2025*). (Usados para extraer el dato consolidado proyectivo del pico NPL estipulado en el 6-7% previsto por la gerencia ante analistas de renta variable).
-- **Investopedia:** 
-  - [Nonperforming Loan - NPL](https://www.investopedia.com/terms/n/nonperformingloan.asp) (Para un entendimiento técnico contable de cuándo un activo bancario se reclasifica a mora y las implicancias que esto tiene sobre su balance).
+- Bloomberg Línea. "Galicia prevé que el pico de morosidad llegará en marzo de 2026." Noviembre de 2025. [URL Bloomberg Línea](https://www.bloomberglinea.com/latinoamerica/argentina/galicia-preve-pico-de-morosidad-en-marzo-de-2026/). *(Cita sobre las proyecciones de insolvencia y costo de riesgo de la gerencia).*
+- Grupo Financiero Galicia (GFG). "Financial Statements 3Q 2025." 25 de noviembre de 2025. [Enlace Investor Relations](https://www.gfgsa.com/English/Financial-Information/Financial-Statements/default.aspx). *(Reporte oficial de resultados con desglose de Loan Loss Provisions y cobertura de NPL).*
+- Infobae. "La morosidad en los hogares escaló al 9,3% según el BCRA." Febrero de 2026. [URL Infobae](https://www.infobae.com/economia/2026/02/15/la-mora-en-los-hogares-escalo-al-93-segun-el-bcra/). *(Evolución de la irregularidad del crédito en familias vs sector corporativo).*
+- Quartr. "GFG Investor Relations Summary and Guidance." 2025. [URL Quartr GGAL](https://quartr.com/companies/grupo-financiero-galicia). *(Resumen de proyecciones y transcripciones de conferencias con analistas).*
+- Investopedia. "Nonperforming Loan - NPL." 2024. [URL Investopedia](https://www.investopedia.com/terms/n/nonperformingloan.asp). *(Definición técnica de la reclasificación contable a mora).*

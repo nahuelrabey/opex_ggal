@@ -20,8 +20,11 @@ fecha_edicion: "YYYY-MM-DD"
 
 ## 2. Respaldo y Veracidad de las Afirmaciones
 El rigor técnico es fundamental en este proyecto. Al desarrollar explicaciones sobre macroeconomía, finanzas, derivados u operatoria bursátil:
-- **Cada afirmación, dato o concepto crítico debe estar respaldado por una fuente** explícita o implícita comprobable (ej. fórmulas matemáticas establecidas, datos de mercado, etc.).
-- **Etiqueta Obligatoria:** Si el agente realiza una afirmación que no emerge estrictamente de una fuente externa verificable, sino que es producto de su propia deducción, inferencia, lógica interna, o escenario hipotético propio, **debe marcarse en el mismo párrafo** añadiendo la etiqueta `(suposición del agente)` entre paréntesis.
+
+### 2.1. Citas y Enlaces Exactos Obligatorios
+- **Imposibilidad de afirmaciones sueltas:** Todas las afirmaciones (datos, dinámicas de mercado, referencias teóricas) deben tener **obligatoriamente una cita en formato Chicago**. No pueden existir afirmaciones técnicas abstractas sin respaldo.
+- **Enlace a Internet Obligatorio:** Todas las citas deben hacer referencia e incluir un **link exacto a internet** activo (ya sea para llevar al usuario al libro referenciado, al sitio web institucional, a un *paper* o al artículo periodístico en el cual se basan). No se aceptan afirmaciones sin su enlace que permita profundizar.
+- **Excepción exclusiva (Suposiciones del Agente):** Lo único que puede estar exento de citación son las inferencias analíticas y suposiciones genuinas de la propia IA. Sin embargo, estas **deben estar marcadas obligatoriamente** en su mismo lugar de uso añadiendo la etiqueta `(suposición del agente)` para distinguirlas estrictamente de la data fáctica.
 
 ## 3. Sección de Referencias al Finalizar
 Para garantizar la trazabilidad del conocimiento y fomentar el aprendizaje continuo, todos los documentos deben incluir una sección de cierre obligatoria.
