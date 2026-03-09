@@ -26,5 +26,11 @@ Si el usuario deseara robotizar o sistematizar este proceso mental, su sistema e
 3. **Construcción de Filtros Duros (Filtros de Hipótesis):** Las variables a operar no deberían ser simples medias móviles (Technical Analysis básico), sino cruces obligatorios con métricas fácticas (reportes de morosidad, PBI estacional vs. volumen).
 4. **Manejo del Riesgo y Volatilidad Direccional:** Dado su entendimiento sobre el "letargo" por estacionalidad, el sistema debe operar Probabilidades de decaimiento en el tiempo (Theta) y expansión forzada (Vega) con rigurosidad matemática.
 
+## 6. Interés en Contexto Histórico y Analogías de Mercado
+- **Búsqueda de Patrones Temporales:** El usuario no solo analiza el presente, sino que busca activamente "anclas" históricas (ej. rally petrolero 2021-2022) para contextualizar la volatilidad actual. Exige que esta investigación sea rigurosa, citando fuentes de organismos internacionales (EIA, Banco Mundial) para evitar la linealidad del análisis.
+
+## 7. Sistematización de la Organización del Conocimiento
+- **Estandarización de Procesos:** Promueve la creación de "Workflows" (instrucciones para agentes) que aseguran la consistencia en la extracción de datos, el registro de entidades y la actualización de la base de conocimiento propia (meta-análisis). Considera que el orden metodológico es un activo tan valioso como el dato financiero en sí.
+
 ---
-*Este marco cognitivo inicial captura la madurez, el método lógico y científico bajo el cual el usuario navega la complejidad e histeria del mercado bursátil argentino y de los derivados financieros.*
+*Este marco cognitivo se ha enriquecido tras la sesión de Marzo 2026, destacando la evolución hacia una bitácora proactiva y altamente estructurada.*

@@ -32,5 +32,15 @@ Este archivo actúa como una bitácora viva o *log* de las instrucciones, correc
 25. **[2026-02-24] Prompt (Verificación Empírica de Suposiciones):** *"Por cada suposición, quiero que crees una forma para verificarla. Particularmente, listar los cálculos que deban ser necesarios, y la información con la que deba contarse... Sólo un pantallaso."*
 26. **[2026-02-24] Prompt (Organización y Adhesión a Reglas):** *"Procede, y escribe los documentos solicitados. Si es necesario, crea una carpeta que se llame 'verificacion_hipotesis'. No te olvides de seguir @[.agents/workflows/escritura_archivos.md] y actualizar @[meta_analisis_usuario]"*
 
+## Sesión: Riesgo País, Morosidad y Shock Energético (Marzo 2026)
+
+27. **[2026-03-09] Prompt (Extracción de Morosidad):** *"Resumir morosidad. Qué tipo de mora aumentó, y cuanto. Resumen tipo punteo."*
+28. **[2026-03-09] Prompt (Explicación Riesgo País):** *"Explícame cómo el JP Morgan calcula el riesgo país. Agrégalo al apunte siguiendo las reglas de escritura."*
+29. **[2026-03-09] Prompt (Hipótesis Macroeconómicas):** *"Agregar hipótesis sobre la suba/baja del dólar en función del riesgo país (Fundación Mediterránea)."*
+30. **[2026-03-09] Prompt (Workflow de Extracción):** *"Crea un archivo en .agents/workflows para la extracción de información de notas (apuntes, referencias, entidades)."*
+31. **[2026-03-09] Prompt (Análisis Petrolero):** *"Ordenar petroleo.md siguiendo workflows. Agregar datos de la suba en bullets y razones (Estrecho de Ormuz, Backwardation)."*
+32. **[2026-03-09] Prompt (Investigación Histórica):** *"Sugerencia de fuentes para saber qué pasó en 2022 (rally petróleo) y cómo afectó a las economías. Escribir en analisis_mercado."*
+33. **[2026-03-09] Prompt (Mejora de Metodología):** *"Agregues en .agents/workflows la directiva de actualizar siempre meta_analisis_usuario."*
+
 ---
 *(Este documento se actualizará en cascada con nuevos prompts relevantes en el futuro para enriquecer el Perfil Cognitivo).*

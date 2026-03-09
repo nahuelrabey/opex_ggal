@@ -31,3 +31,8 @@ Para garantizar la trazabilidad del conocimiento y fomentar el aprendizaje conti
 - Al final de cada archivo markdown se debe añadir un apartado titulado `### Fuentes recomendadas` o `### Referencias`.
 - En este apartado, el agente debe enumerar libros académicos (ej. *John C. Hull*, *Sheldon Natenberg*), artículos técnicos de sitios confiables (ej. *Investopedia*, *CME Group*), o autores institucionales.
 - Por cada fuente listada, se debe incorporar una cursiva o paréntesis indicando **para qué sirve exactamente esa fuente** en alusión a los temas recién abordados en el documento.
+
+## 4. Meta-Análisis Obligatorio
+Al finalizar cada sesión de trabajo o hito importante, el agente DEBE actualizar obligatoriamente los archivos en el directorio [meta_analisis_usuario](file:///c:/Users/nahue/Desktop/bitacora_opex/meta_analisis_usuario).
+- **perfil_cognitivo_usuario.md:** Actualizar con nuevas preferencias, estilos de redacción o patrones de interés detectados.
+- **registro_prompts_historicos.md:** Indexar prompts complejos o recurrentes que hayan sido exitosos para futura reutilización.
